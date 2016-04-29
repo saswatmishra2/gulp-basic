@@ -1,0 +1,16 @@
+{
+  "name": "sasui",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "gulp watch",
+    "test": "gulp test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "gulp": "~3.9.1",
+    "gulp-connect": "^4.0.0",
+    "gulp-connect-multi": "^1.0.8",
+    "gulp-util": "^3.0.7"
+  }
+}
